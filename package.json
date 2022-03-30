@@ -1,0 +1,18 @@
+{
+  "name": "messengerbot",
+  "version": "0.1.0",
+  "description": "Discord bot to provide message services to users and servers ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "type": "module",
+  "author": "Xlilos",
+  "license": "MIT",
+  "dependencies": {
+    "cron": "^1.8.2",
+    "discord.js": "^13.6.0",
+    "lowdb": "^3.0.0",
+    "winston": "^3.6.0"
+  }
+}
